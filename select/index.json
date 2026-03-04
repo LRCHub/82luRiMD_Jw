@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Best Guess",
+  "base_artist": "Lucy Dacus",
+  "createdAt": "2026-03-04T23:17:59.464291Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Best Guess",
+      "artist": "Lucy Dacus",
+      "has_synced": true,
+      "path": "select/01_Best_Guess_Lucy_Dacus.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Best Guess",
+      "artist": "Lucy Dacus",
+      "has_synced": true,
+      "path": "select/02_Best_Guess_Lucy_Dacus.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Best Guess",
+      "artist": "Ryan Montbleau",
+      "has_synced": true,
+      "path": "select/03_My_Best_Guess_Ryan_Montbleau.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Best Guess (wedding version)",
+      "artist": "Lucy Dacus",
+      "has_synced": false,
+      "path": "select/04_Best_Guess_(wedding_version)_Lucy_Dacus.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Best Guess",
+      "artist": "Song, Lucy Dacus",
+      "has_synced": true,
+      "path": "select/05_Best_Guess_Song,_Lucy_Dacus.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Best Guess",
+      "artist": "Lucy Dacus",
+      "has_synced": false,
+      "path": "select/pl_01_Best_Guess_Lucy_Dacus.txt"
+    }
+  ]
+}
